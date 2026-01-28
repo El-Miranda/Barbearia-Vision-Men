@@ -1,0 +1,212 @@
+/*Seção Global*/
+* {
+padding: 0;
+margin: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    text-align: center;
+}  
+
+.secao-global {
+    margin: 10px auto;
+    width: 980px;
+
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+.texto-global {
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.texto-preto {
+    color: #040404;
+}
+
+.texto-italico {
+    font-style: italic;
+}
+
+.texto-sublinhado {
+    text-decoration: underline;
+}
+/*Fim Seção Global*/
+
+/*Primeira Seção*/
+.primeira-secao, .quinta-secao {
+   background-color: #a6a6a6;
+}
+.img-logo {
+    width: 600px;
+}
+.primeira-secao-links {
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+    text-align: center;
+}
+.links-topo, .secao-global a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #040404;
+
+    margin: 0 10px;
+    border-bottom: 2px solid #040404;
+}
+/*Fim Primeira Seção*/
+
+/*Segunda Seção*/
+.segunda-secao {
+    background-color: #d9d9d9;
+}
+
+.img-banner {
+    width: 900px;
+    height: 550px;
+
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+/*Fim Segunda Seção*/       
+
+/*Terceira Seção*/
+.terceira-secao, .sexta-secao {   
+    background-color: #f2f2f2;
+}
+h1 {
+    font-size: 36px;
+    line-height: 54px;
+    margin-bottom: 15px;
+
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+h2 {
+    font-size: 24px;    
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+.terceira-secao p {
+    margin-top: 15px;
+}
+/*Fim Terceira Seção*/
+
+/*Quarta Seção*/
+.quarta-secao, .setima-secao {
+    background-color: #d9d9d9;
+}    
+
+.img-ambiente {
+    width: 411px;
+    height: 495.5px;
+    margin: 25px 0;
+
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.img-ambiente-1 {
+    border-radius: 10px 0 0 10px;
+}
+
+.img-ambiente-2 {
+    border-radius: 0 10px 10px 0;
+}  
+/*Fim Quarta Seção*/
+
+/*Quinta Seção*/
+.img-produtos {
+    width: 322.5px;
+    height: 405px;
+
+    margin: 25px 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+}
+
+.quinta-secao p {
+    font-size: 18px;
+    text-align: justify;
+    width: 900px;
+}
+
+.quinta-secao ul {
+    margin: 20px auto;
+    width: 200px;
+
+    font-size: 18px;
+    text-align: justify;
+}
+
+.quinta-secao li {
+    margin-bottom: 10px;
+}
+/*Fim Quinta Seção*/
+
+/*Sexta Seção*/
+.sexta-secao {
+    padding-bottom: 50px;
+}
+.img-barbeiros {
+    width: 372;
+    height: 453px;
+
+    margin: 25px 0;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}   
+/*Fim Sexta Seção*/
+
+/*Sétima Seção*/
+.setima-secao {
+    padding-bottom: 70px;
+}
+
+iframe {
+    width: 600px;
+    height: 250px;
+    border: 1px solid #000;
+
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.setima-secao p {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: justify;
+    width: 980px;
+}
+
+.setima-secao a {
+    color: #040404;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 2px solid #040404;
+
+    margin: 0 5px;
+}
+/*Fim Sétima Seção*/
+
+/*Rodapé*/
+.rodape {
+    background-color: #a6a6a6;
+    padding: 15px 0;
+}
+.rodape p {
+    font-size: 16px; 
+    color: #040404;
+    margin: 0 auto;
+   text-align: center;
+}
